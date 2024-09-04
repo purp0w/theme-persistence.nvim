@@ -12,8 +12,6 @@
 
 ### Using [lazy.nvim](https://github.com/folke/lazy.nvim)
 
-Add the following line to your `init.lua` file:
-
 ```lua
 return {
   "purp0w/theme-persistence.nvim",
