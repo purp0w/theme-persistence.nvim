@@ -6,7 +6,6 @@
 
 - Automatically saves the current colorscheme to a file on colorscheme change.
 - Re-applies the saved colorscheme on startup.
-- No configuration required.
 
 ## Installation
 
