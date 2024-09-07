@@ -1,6 +1,6 @@
-# theme-persistance.nvim
+# theme-persistence.nvim
 
-**theme-persistance.nvim** is a simple Neovim plugin that automatically saves your current colorscheme to a file and re-applies it every time Neovim starts.
+**theme-persistence.nvim** is a simple Neovim plugin that automatically saves your current colorscheme to a file and re-applies it every time Neovim starts.
 
 ## Features
 
